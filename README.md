@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Welcome to My GitHub
+ About Me
+I'm a master's student studying Leadership and Public Administration, an entrepreneur, and an aspiring IT professional exploring opportunities in the technology industry.
 
-<!--
-**JamesTodd171/Jamestodd171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My background in leadership, business operations, and problem-solving has inspired me to expand my technical knowledge and develop practical technology skills.
 
-Here are some ideas to get you started:
+What I'm Exploring
+- Information Technology & IT Support
+- Cybersecurity & Networking
+- Data Analytics & Business Intelligence
+- IT Project Management
+- Technology Solutions for Business
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+What I'm Working On
+- Learning IT fundamentals and technical tools
+- Building hands-on projects to strengthen my skills
+- Exploring how technology improves organizational efficiency
+- Developing a portfolio of practical IT projects
+
+My Goal
+To combine my leadership and entrepreneurial experience with technical expertise to contribute to innovative, technology-driven organizations.
+
+Let's Connect
+I'm interested in learning, collaborating, and connecting with professionals in the technology industry.
+
+.- ⚡ Fun fact: ...
 -->
