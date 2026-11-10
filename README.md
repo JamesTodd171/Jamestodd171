@@ -22,6 +22,3 @@ To combine my leadership and entrepreneurial experience with technical expertise
 
 Let's Connect
 I'm interested in learning, collaborating, and connecting with professionals in the technology industry.
-
-.- ⚡ Fun fact: ...
--->
